@@ -2,16 +2,14 @@
 
 - 🌱 I’m currently learning HTML, CSS, Javascript
 
+#### Connect with me:
 
-### Connect with me:
+<a href="https://www.linkedin.com/in/george-jr-5a7a88178/"><img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
 
-<a href="https://www.facebook.com/george.lim.54584" class="bi bi-facebook"><img ></a>
-<a href="https://m.me/george.lim.54584" class="bi bi-messenger"></a>
-<a href="georgejrlim090495@gmail.com" class="bi bi-envelope"></a>
-<a href="https://www.linkedin.com/in/george-jr-5a7a88178/" class="bi bi-linkedin"></a>
+<br>
+<br>
 
-<details>
-  <summary>🧪 Technologies</summary>
+<summary>🧪 Technologies</summary>
   
 #### Frontend
 
@@ -31,7 +29,5 @@
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-  
-</details>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georimu)](https://github.com/anuraghazra/github-readme-stats)
